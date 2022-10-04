@@ -1,0 +1,6 @@
+{
+    "name": "Chartlink Table Extractor",
+    "description": "Extract stock symbols in the tables as CSV output",
+    "version": "1.0",
+    "manifest_version": 3
+  }
